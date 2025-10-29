@@ -11,6 +11,7 @@ namespace Git_Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine( "This is a demo project for Git.");
         }
     }
 }
